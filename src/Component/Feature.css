@@ -1,0 +1,33 @@
+.container{
+    align-items: center;
+    padding: 20px 20px;
+    margin-bottom: 50px;
+}
+.feature{
+    display: flex;
+    flex-direction: column;
+    padding-right:20px ;
+    padding-left: 20px;
+   
+}
+.subfeature{
+    display: flex;
+    flex-direction: row;
+    background-color:#F2F6F8;
+    margin-bottom: 50px;
+    border-radius: 5px;
+}
+.subfeature:hover{
+    background-color:#C0DCEF;
+
+}
+
+.icon{
+    padding: 10px 10px;
+}
+.text{
+    padding: 15px 10px;
+}
+.text h4{
+    font-weight: 800;
+}

@@ -1,0 +1,25 @@
+.conteiner {
+   
+    margin-top: 70px;
+    padding-left: 50px;
+    padding-right: 50px;
+   
+    
+}
+.conteiner .b_btn center{
+    margin-bottom: 20px;
+}
+.conteiner .b_btn center a{
+   
+    padding: 5px 30px;
+    background-color: #C0DCEF;
+    align-items: center;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    cursor: pointer;
+
+}
+.bodytext h2 center{
+    margin-bottom: 20px;
+    font-weight: 700;
+}

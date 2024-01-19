@@ -9,7 +9,7 @@
 body {
   background: #fff;
 }
-h1,h4,p,a {
+h1,h2,h4,p,a {
   color: #05375B;
   text-decoration: none;
 }
@@ -17,7 +17,7 @@ ul{
   list-style-type: none;
 }
 .btn{
-  padding: 12px 32px;
+  padding: 8px 20px;
   background-color:  #359ADE;
   border-radius: 20px;
   border: 1 solid #fff;
