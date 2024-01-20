@@ -1,0 +1,79 @@
+.profiles{
+    padding: 8vw 8vw 8vw 8vw;
+	text-align: center; 
+    padding-top: 3%;
+}
+
+.heder h1{
+    padding-bottom: 3%;
+    font-weight: 800;
+    font-size: 40px;
+    color: #05375B;
+    
+}
+.heder p{
+   
+    font-weight: 400;
+    padding-bottom: 40px;
+    color: #95A0A8;
+}
+.profile_section{
+    display: grid;
+	grid-template-columns:repeat(auto-fit,minmax(250px,1fr)) ;
+    grid-gap: 2rem;
+    margin-top: 50px;
+
+}
+.profile{
+    background-color: #F2F6F8;
+	padding:30px 10px ;
+    
+}
+.profile:hover{
+    background-color:#C0DCEF;
+    transition: 0.3s;
+}
+.profile img{
+    width: 150px;
+    height: 150px;
+    border-radius: 100%;
+    cursor: pointer;
+   
+}
+.profile h4{
+    color: #05375B;
+    margin-top: 10px;
+    font-weight: 500;
+
+}
+.profile p{
+    color: #95A0A8;
+    margin-top: 2%;
+}
+.pro-links{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding-left: 20%;
+    cursor: pointer;
+    
+    
+}
+.i{
+    padding: auto;
+    margin-top: 2%;
+}
+
+.pro-links .i:hover{
+	
+   
+	color:  #fff;
+	border: 2px solid rgb(21, 21, 100);
+	cursor: pointer;
+    
+
+}
+ 
+
+
+
