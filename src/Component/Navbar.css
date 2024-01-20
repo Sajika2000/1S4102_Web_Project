@@ -29,10 +29,15 @@
     padding-left: 1rem;
     padding-right: 2rem;
     padding-top: 5px;
+    color: #05375B;
+   ;
 }
 .nav_main li a{
     font-size: 1.2rem;
     font-weight: 500;
+    color: #05375B;
+    text-decoration: none;
+    
 }
 
 
@@ -40,6 +45,7 @@
     display: flex;
     padding-left: 6rem;
     align-items: center;
+    color: #05375B;
 }
 .nav_main li .btn{
     color: #fff;

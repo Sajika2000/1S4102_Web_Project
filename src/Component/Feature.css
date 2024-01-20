@@ -2,6 +2,7 @@
     align-items: center;
     padding: 20px 20px;
     margin-bottom: 50px;
+   
 }
 .feature{
     display: flex;
@@ -16,6 +17,7 @@
     background-color:#F2F6F8;
     margin-bottom: 50px;
     border-radius: 5px;
+
 }
 .subfeature:hover{
     background-color:#C0DCEF;
@@ -27,7 +29,14 @@
 }
 .text{
     padding: 15px 10px;
+    
 }
 .text h4{
     font-weight: 800;
+    color: #05375B;
+
 }
+.text p{
+    color: #05375B;
+}
+

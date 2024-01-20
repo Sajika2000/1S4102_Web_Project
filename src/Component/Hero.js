@@ -1,6 +1,7 @@
 import React from 'react'
 import "./Hero.css"
 import HeroIcon from "../Assest/Home_img1.png"
+import { Link } from "react-router-dom"
 
 const Hero = () => {
 
@@ -15,7 +16,11 @@ const Hero = () => {
             <p>
             Dicover a world of knowledge with our cutting-edge online course <br/>application. Empower yourself to succeed in your career, passion, and <br/>personal growth journey.
             </p>
-            <a className='btn' href=''>Get Strated</a>
+           <div className='btn'>
+           <Link  className='btn_1' to="/SignIn">Get Strated</Link>
+           </div>
+           
+        
 
 
               

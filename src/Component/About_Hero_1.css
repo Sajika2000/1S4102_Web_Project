@@ -1,0 +1,30 @@
+.container{
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 50px;
+    z-index: 1;
+}
+.section{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+
+}
+.Hero1{
+   
+    align-items: start;  
+   
+}
+.section h1{
+   padding-bottom: 10px;
+   font-weight: 800;
+   color: #05375B;
+}
+.section p{
+    padding-top: 10px;
+    font-weight: 400;
+    color: #05375B;
+
+}

@@ -24,20 +24,26 @@
 .section1 h1{
    padding-bottom: 10px;
    font-weight: 800;
+   color: #05375B;
 }
 .section1 p{
     padding-top: 10px;
     font-weight: 400;
+    color: #05375B;
 
 }
 .section1 .btn{
     padding: 12px 40px;
     margin-top: 20px;
     font-weight: 800;
-    color: #fff;
+   
     
 }
-.section1 .btn:hover{
+.section1 .btn .btn_1{
+    color: #fff;
+}
+
+.section1 .btn :hover{
     color: #05375B;
     transition: 0.3s;
 }

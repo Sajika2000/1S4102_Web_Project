@@ -9,8 +9,7 @@
 body {
   background: #fff;
 }
-h1,h2,h4,p,a {
-  color: #05375B;
+a{
   text-decoration: none;
 }
 ul{
@@ -23,4 +22,5 @@ ul{
   border: 1 solid #fff;
   font-weight: 500;
   cursor: pointer;
+  color: #fff;
 }
