@@ -1,0 +1,166 @@
+.container{
+    padding-top: 10px;
+	display: flex;
+	justify-content: space-between;
+	align-items: flex-start;
+
+}
+.contact_infor{
+    width: 350px;
+}
+.contact_infor  .con_infor h2{
+    color: #05375B;
+	font-size: 30px;
+	font-weight: 800;
+	line-height: 0.8;
+	margin-bottom:16px;
+}
+.contact_infor .con_infor p{
+    color: #95A0A8;
+	line-height: 24px;
+	margin-bottom: 33px;
+	padding-bottom: 25px;
+    border-bottom: 1px solid #95A0A8;
+}	
+.contact_form{
+    display: flex;
+    flex-direction: column;
+
+}
+.contact_form{
+    padding-top: 10PX;
+
+}
+.contact_form .section{
+    padding-left: 5px;
+
+}
+.contact_form .section h4{
+    color: #05375B;
+	font-size: 16px;
+	font-weight: 600;
+	line-height: 26px;
+	margin-bottom:15px;
+}
+.subsection{
+    display: flex;
+    padding-bottom: 10px;
+    padding-left: 10px;
+
+}
+.subsection img{
+    padding: 10px;
+
+
+}
+.subsection p{
+    padding-left: 15px;
+    color: #95A0A8;
+}
+.pro_links{
+    display: flex;
+    flex-direction: row;
+    padding-left: 5px;
+    
+
+}
+.box{
+    height: 40px;
+    width: 40px;
+    background-color: #359ADE;
+    margin: 10px;
+    
+}
+.pro_links .box{
+  align-items: center;
+  padding: 10px;
+  align-items: center;
+  
+}
+.box:hover{
+    background: #05375B ;
+    cursor: pointer;
+    transition: 0.3s;
+}
+.form{
+	width: 60%;
+	background: #F2F6F8;
+	padding: 40px;
+	border-radius: 10px;
+
+
+}
+.form_head h2{
+    font-size: 24px;
+	color: #05375B;
+	line-height: 30px;
+	margin-bottom: 8px;
+}
+.form_head p{
+    color: #95A0A8;
+	line-height: 24px;
+	padding-bottom: 25px;
+}
+.row1{
+	display: flex;
+	justify-content: space-between;
+	width: 100%;
+}
+.row1 input{
+	width: 48%;
+	font-size: 14px;
+	font-weight: 400;
+	border-radius:3px;
+	border: none;
+	background: #fff;
+	color: #95A0A8;
+	outline: none;
+	margin-bottom: 20px;
+	padding: 20px 30px;
+	margin-bottom: 20px;
+
+}
+.row2 input{
+    width: 100%;
+	font-size: 14px;
+	font-weight: 400;
+	border-radius:3px;
+	border: none;
+	background: #fff;
+	color: #95A0A8;
+	outline: none;
+	margin-bottom: 20px;
+	padding: 20px 30px;
+	margin-bottom: 20px;
+}
+.row3 textarea{
+    width: 100%;
+	font-size: 14px;
+	font-weight: 400;
+	border-radius:3px;
+	border: none;
+	background: #fff;
+	color: #95A0A8;
+	outline: none;
+
+	margin-bottom: 20px;
+	padding: 20px 30px;
+	margin-bottom: 20px;
+}
+.btns button{
+    font-size: 0.9rem;
+   padding: 13px 25px;
+   background: #C0DCEF;
+   border-radius: 5px;
+   outline: none;
+   border: none;
+   font-weight: 600;
+   cursor: pointer;
+   color: #05375B;
+  
+}
+
+.form .btns button:hover{
+    color: #fff;
+}
+
